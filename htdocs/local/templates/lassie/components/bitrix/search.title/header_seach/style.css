@@ -1,0 +1,10 @@
+.search-title {
+  background-color:rgb(231, 226, 226);
+  position:relative;
+  z-index:10;
+}
+
+.search-title-result-item-image-container {
+  padding-left: 20px;
+}
+
